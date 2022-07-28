@@ -6,6 +6,8 @@
 %
 
 
+% testes git amanda
+
 clc; clear; close all; tic
 %
 % Données matériaux voir fichier Excel
